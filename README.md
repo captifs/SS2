@@ -14,7 +14,7 @@ ce selectează banda frecvențială de interes pentru sistemul meu.
 
 Memorez in ```inters1``` partea reala a punctului in care hodograful lui P_tan intersecteaza axa OX in dreapta axei imaginare pe care o pot calcula astfel: 
 ```python
-inters1 = evalfr(P_tan,omeg);
+inters1 = evalfr(P_tan,0);
 ```
 Memorez in ```inters2``` partea reala a punctului in care hodograful lui P_tan intersecteaza axa OX in stanga axei imaginare , valoare pe care o iau de pe graficul Nyquist.
 ```real```
