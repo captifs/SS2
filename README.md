@@ -78,7 +78,7 @@ In variabilele ```amp1``` si ```def1``` memorez amplitudinea si defazajul iesiri
 bode(P_tan,omeg);
 [ampa defa]  = bode(P_tan,omeg);
 amp1 = 7 * ampa(500);
-def1 =def(500) + 45;
+def1 =defa(500) + 45;
 ```
 
 b) Figurez Diagramele Bode a lui 3 * P_tan.
